@@ -1,21 +1,29 @@
 
 
-
-
+html {
+    display: block;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+head {
+    display: none;
+}
 hr {
   border-top: 4px solid #bbb;
 }
 
-
+div {
+    display: block;
+}
 
 
 h1 {
   margin-bottom: 10px;
   margin-top: 25px;
 
-  font-weight: 300;
 }
-
 
 
 h2 {
